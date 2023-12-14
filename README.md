@@ -9,5 +9,5 @@ npm install
 npm start
 ```
 ## pictures of the design as how it should be in (windows, phone)
-[for windows](https://github.com/hamza19944/test-design/blob/master/public/screenshots/first-image.jpg)
-[for phone](https://github.com/hamza19944/test-design/blob/master/public/screenshots/second-image.jpg)
+![for windows](https://github.com/hamza19944/test-design/blob/master/public/screenshots/first-image.jpg)
+![for phone](https://github.com/hamza19944/test-design/blob/master/public/screenshots/second-image.jpg)
