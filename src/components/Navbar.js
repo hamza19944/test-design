@@ -6,8 +6,8 @@ const Navbar = () => {
             <div className="container">
                 <div className="nav-logo">
                     <div className="image">
-                        <img src="./vector.png" />
-                        <img src="./vector (1).png" />
+                        <img src="./images/vector.png" />
+                        <img src="./images/vector (1).png" />
                     </div>
                     <p className="text">
                         крупный интегратор CRM в Poccии и ещё 8 странах
